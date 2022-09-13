@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NativeAdView">
+        <attr name="adMobNativeButton" format="reference"/>
+        <attr name="startappNativeButton" format="reference"/>
+    </declare-styleable>
+
+</resources>

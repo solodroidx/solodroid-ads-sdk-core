@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="gnt_text_size_small">12sp</dimen>
+    <dimen name="gnt_ad_indicator_width">24dp</dimen>
+    <dimen name="gnt_ad_indicator_height">19dp</dimen>
+    <dimen name="gnt_ad_indicator_text_size">10sp</dimen>
+
+    <dimen name="item_post_padding_medium">14dp</dimen>
+    <dimen name="post_primary_font_size">16sp</dimen>
+    <dimen name="post_secondary_font_size">12sp</dimen>
+
+    <dimen name="radio_thumbnail_width">60dp</dimen>
+    <dimen name="radio_thumbnail_height">60dp</dimen>
+    <dimen name="radio_primary_font_size">15sp</dimen>
+    <dimen name="radio_secondary_font_size">13sp</dimen>
+
+</resources>
